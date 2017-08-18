@@ -1,0 +1,77 @@
+ <section class="blog padding-style1" id="blog">
+        <div class="blog-header">
+            <h4 class="section-title">WATCH MY BLOG</h4>
+        </div>
+        <div class="blog-content">
+            <div class="container">
+                <div class="row">
+                    <div class="col-md-4 col-sm-6">
+                        <div class="blog-single-item animation" data-animation="fadeInLeft">
+                            <div class="blog-img-area">
+                                <img src="images/blog/blog-img1.jpg" alt="blog" class="img-responsive">
+                            </div>
+                            <div class="blog-text-area">
+                                <div class="blog-description">
+                                    <div class="date-area primary-bg">
+                                        <h4>10</h4>
+                                        <p>February</p>
+                                        <p>2017</p>
+                                    </div>
+                                    <div class="blog-text">
+                                        <h6>UNder Construction</h6>
+                                        <p><span><i class="fa fa-user" aria-hidden="true"></i></span>posted by <a href="#">admin</a></p>
+                                        <p></p>
+                                        <a href="single-blog.html" class="btn-style3 read-btn">READ MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="blog-single-item animation" data-animation="pulse">
+                            <div class="blog-img-area">
+                                <img src="images/blog/blog-img2.jpg" alt="blog" class="img-responsive">
+                            </div>
+                            <div class="blog-text-area">
+                                <div class="blog-description">
+                                    <div class="date-area primary-bg">
+                                        <h4>10</h4>
+                                        <p>February</p>
+                                        <p>2017</p>
+                                    </div>
+                                    <div class="blog-text">
+                                        <h6>Under Construction</h6>
+                                        <p><span><i class="fa fa-user" aria-hidden="true"></i></span>posted by <a href="#">admin</a></p>
+                                        <p></p>
+                                        <a href="single-blog.html" class="btn-style3 read-btn">READ MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-6">
+                        <div class="blog-single-item animation" data-animation="fadeInRight">
+                            <div class="blog-img-area">
+                                <img src="images/blog/blog-img3.jpg" alt="blog" class="img-responsive">
+                            </div>
+                            <div class="blog-text-area">
+                                <div class="blog-description">
+                                    <div class="date-area primary-bg">
+                                        <h4>10</h4>
+                                        <p>February</p>
+                                        <p>2017</p>
+                                    </div>
+                                    <div class="blog-text">
+                                        <h6>Under developing</h6>
+                                        <p><span><i class="fa fa-user" aria-hidden="true"></i></span>posted by <a href="#">admin</a></p>
+                                        <p></p>
+                                        <a href="single-blog.html" class="btn-style3 read-btn">READ MORE</a>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
